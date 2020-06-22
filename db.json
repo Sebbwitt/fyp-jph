@@ -172,52 +172,52 @@
         ],
         "scores" : [
             {
-                "Rank" : 1,
-                "Participant Name": "Adam",
-                "Last Interaction": "May 12, 2020, 14:00",
-                "Score": 900
+                "rank" : 1,
+                "participant_name": "Adam",
+                "last_interaction": "May 12, 2020, 14:00",
+                "score": 900
             },
             {
-                "Rank" : 2,
-                "Participant Name": "David Hasselfhoff",
-                "Last Interaction": "May 11, 2020, 15:20",
-                "Score": 840
+                "rank" : 2,
+                "participant_name": "David Hasselfhoff",
+                "last_interaction": "May 11, 2020, 15:20",
+                "score": 840
             },
             {
-                "Rank" : 3,
-                "Participant Name": "Ahmad",
-                "Last Interaction": "May 12, 2020, 16:21",
-                "Score": 700
+                "rank" : 3,
+                "participant_name": "Ahmad",
+                "last_interaction": "May 12, 2020, 16:21",
+                "score": 700
             },
             {
-                "Rank" : 4,
-                "Participant Name": "Wei Jie",
-                "Last Interaction": "May 11, 2020, 13:12",
-                "Score": 500
+                "rank" : 4,
+                "participant_name": "Wei Jie",
+                "last_interaction": "May 11, 2020, 13:12",
+                "score": 500
             },
             {
-                "Rank" : 5,
-                "Participant Name": "Sam",
-                "Last Interaction": "May 12, 2020, 14:32",
-                "Score": 420
+                "rank" : 5,
+                "participant_name": "Sam",
+                "last_interaction": "May 12, 2020, 14:32",
+                "score": 420
             },
             {
-                "Rank" : 6,
-                "Participant Name": "Terry",
-                "Last Interaction": "May 10, 2020, 17:23",
-                "Score": 400
+                "rank" : 6,
+                "participant_name": "Terry",
+                "last_interaction": "May 10, 2020, 17:23",
+                "score": 400
             },
             {
-                "Rank" : 7,
-                "Participant Name": "Alice",
-                "Last Interaction": "May 8, 2020, 20:02",
-                "Score": 350
+                "rank" : 7,
+                "participant_name": "Alice",
+                "last_interaction": "May 8, 2020, 20:02",
+                "score": 350
             },
             {
-                "Rank" : 8,
-                "Participant Name": "Priya",
-                "Last Interaction": "May 3, 2020, 14:23",
-                "Score": 230
+                "rank" : 8,
+                "participant_name": "Priya",
+                "last_interaction": "May 3, 2020, 14:23",
+                "score": 230
             }
         ]
     }
