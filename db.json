@@ -169,8 +169,11 @@
                 "balance_score" : 20,
                 "remarks" : "Ah Lim loves to watch birds sing"
             }
-        ],
-        "scores" : [
+        ]
+    },
+    "scores" : {
+        "length" : 8,
+        "participants" : [
             {
                 "rank" : 1,
                 "participant_name": "Adam",
