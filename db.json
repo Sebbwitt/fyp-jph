@@ -223,5 +223,127 @@
                 "score": 230
             }
         ]
+    },
+    "receivers" : {
+        "length" : 8,
+        "receivers" : [
+            {
+                "device" : "Receiver 2",
+                "last_heartbeat": "May 12, 2020, 14:00",
+                "last_seen": "2 Days 9 hr 20 mins ago",
+                "location_area": "Common Space 2",
+                "status": "Inactive"
+            },
+            {
+                "device" : "Receiver 1",
+                "last_heartbeat": "May 22, 2020, 15:00",
+                "last_seen": "12 mins ago",
+                "location_area": "Common Space 1",
+                "status": "Active"
+            },
+            {
+                "device" : "Receiver 3",
+                "last_heartbeat": "May 12, 2020, 14:00",
+                "last_seen": "2 Days 9 hr 20 mins ago",
+                "location_area": "Common Space 2",
+                "status": "Active"
+            },
+            {
+                "device" : "Receiver 4",
+                "last_heartbeat": "May 12, 2020, 14:00",
+                "last_seen": "2 Days 9 hr 20 mins ago",
+                "location_area": "Common Space 2",
+                "status": "Active"
+            },
+            {
+                "device" : "Receiver 5",
+                "last_heartbeat": "May 12, 2020, 14:00",
+                "last_seen": "2 Days 9 hr 20 mins ago",
+                "location_area": "Common Space 2",
+                "status": "Active"
+            },
+            {
+                "device" : "Receiver 6",
+                "last_heartbeat": "May 12, 2020, 14:00",
+                "last_seen": "2 Days 9 hr 20 mins ago",
+                "location_area": "Common Space 2",
+                "status": "Active"
+            },
+            {
+                "device" : "Receiver 7",
+                "last_heartbeat": "May 12, 2020, 14:00",
+                "last_seen": "2 Days 9 hr 20 mins ago",
+                "location_area": "Common Space 2",
+                "status": "Active"
+            },
+            {
+                "device" : "Receiver 8",
+                "last_heartbeat": "May 12, 2020, 14:00",
+                "last_seen": "2 Days 9 hr 20 mins ago",
+                "location_area": "Common Space 2",
+                "status": "Active"
+            }
+        ]
+    },
+    "beacons" : {
+        "length" : 8,
+        "beacons" : [
+            {
+                "beacon_id" : "B0000000001",
+                "participant_id": "AAAA1234",
+                "participant_name": "Adam",
+                "last_active": "May 22, 2020, 15:00",
+                "status": "Inactive"
+            },
+            {
+                "beacon_id" : "B0000000002",
+                "participant_id": "AAAA1234",
+                "participant_name": "Adam",
+                "last_active": "May 22, 2020, 15:00",
+                "status": "Active"
+            },
+            {
+                "beacon_id" : "B0000000003",
+                "participant_id": "AAAA1234",
+                "participant_name": "Adam",
+                "last_active": "May 22, 2020, 15:00",
+                "status": "Active"
+            },
+            {
+                "beacon_id" : "B0000000004",
+                "participant_id": "AAAA1234",
+                "participant_name": "Adam",
+                "last_active": "May 22, 2020, 15:00",
+                "status": "Active"
+            },
+            {
+                "beacon_id" : "B0000000005",
+                "participant_id": "AAAA1234",
+                "participant_name": "Adam",
+                "last_active": "May 22, 2020, 15:00",
+                "status": "Active"
+            },
+            {
+                "beacon_id" : "B0000000006",
+                "participant_id": "AAAA1234",
+                "participant_name": "Adam",
+                "last_active": "May 22, 2020, 15:00",
+                "status": "Inactive"
+            },
+            {
+                "beacon_id" : "B0000000007",
+                "participant_id": "AAAA1234",
+                "participant_name": "Adam",
+                "last_active": "May 22, 2020, 15:00",
+                "status": "Inactive"
+            },
+            {
+                "beacon_id" : "B0000000008",
+                "participant_id": "AAAA1234",
+                "participant_name": "Adam",
+                "last_active": "May 22, 2020, 15:00",
+                "status": "Inactive"
+            }
+        ]
     }
 }
