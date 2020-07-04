@@ -43,131 +43,6 @@
                 "total_score" : 70,
                 "balance_score" : 20,
                 "remarks" : "Ah Lim loves to watch birds sing"
-            },
-            {   
-                "id" : "DDDD1234",
-                "name" : "Ah Kiat 2",
-                "year" : 1959,
-                "address" : "60 Mountbatten street",
-                "floor" : 11,
-                "unit" : "#11-777",
-                "flat_type" : "4-Room",
-                "alone" : true,
-                "beacon_id" : "ABCD1111",
-                "total_score" : 100,
-                "balance_score" : 0,
-                "remarks" : "Ah Kiat does not eat chicken"
-            },
-            {
-                "id" : "EEEE1234",
-                "name" : "Ah Chan 2",
-                "year" : 1954,
-                "address" : "60 Mountbatten street",
-                "floor" : 13,
-                "unit" : "#13-111",
-                "flat_type" : "3-Room",
-                "alone" : false,
-                "beacon_id" : "ABCD2222",
-                "total_score" : 150,
-                "balance_score" : 50,
-                "remarks" : "Ah Chan has very bad backache"
-            },
-            {
-                "id" : "FFFF1234",
-                "name" : "Ah Lim 2",
-                "year" : 1949,
-                "address" : "60 Mountbatten street",
-                "floor" : 4,
-                "unit" : "#04-777",
-                "flat_type" : "2-Room",
-                "alone" : true,
-                "beacon_id" : "ABCD3333",
-                "total_score" : 70,
-                "balance_score" : 20,
-                "remarks" : "Ah Lim loves to watch birds sing"
-            },
-            {   
-                "id" : "GGGG1234",
-                "name" : "Ah Kiat 3",
-                "year" : 1959,
-                "address" : "60 Mountbatten street",
-                "floor" : 11,
-                "unit" : "#11-777",
-                "flat_type" : "4-Room",
-                "alone" : true,
-                "beacon_id" : "ABCD1111",
-                "total_score" : 100,
-                "balance_score" : 0,
-                "remarks" : "Ah Kiat does not eat chicken"
-            },
-            {
-                "id" : "HHHH1234",
-                "name" : "Ah Chan 3",
-                "year" : 1954,
-                "address" : "60 Mountbatten street",
-                "floor" : 13,
-                "unit" : "#13-111",
-                "flat_type" : "3-Room",
-                "alone" : false,
-                "beacon_id" : "ABCD2222",
-                "total_score" : 150,
-                "balance_score" : 50,
-                "remarks" : "Ah Chan has very bad backache"
-            },
-            {
-                "id" : "IIII1234",
-                "name" : "Ah Lim 3",
-                "year" : 1949,
-                "address" : "60 Mountbatten street",
-                "floor" : 4,
-                "unit" : "#04-777",
-                "flat_type" : "2-Room",
-                "alone" : true,
-                "beacon_id" : "ABCD3333",
-                "total_score" : 70,
-                "balance_score" : 20,
-                "remarks" : "Ah Lim loves to watch birds sing"
-            },            {   
-                "id" : "JJJJ1234",
-                "name" : "Ah Kiat 4",
-                "year" : 1959,
-                "address" : "60 Mountbatten street",
-                "floor" : 11,
-                "unit" : "#11-777",
-                "flat_type" : "4-Room",
-                "alone" : true,
-                "beacon_id" : "ABCD1111",
-                "total_score" : 100,
-                "balance_score" : 0,
-                "remarks" : "Ah Kiat does not eat chicken"
-            },
-            {
-                "id" : "KKKK1234",
-                "name" : "Ah Chan 4",
-                "year" : 1954,
-                "address" : "60 Mountbatten street",
-                "floor" : 13,
-                "unit" : "#13-111",
-                "flat_type" : "3-Room",
-                "alone" : false,
-                "beacon_id" : "ABCD2222",
-                "total_score" : 150,
-                "balance_score" : 50,
-                "remarks" : "Ah Chan has very bad backache"
-            },
-            {
-                "id" : "LLLLL1234",
-                "name" : "Ah Lim 4",
-                "year" : 1949,
-                "address" : "60 Mountbatten street",
-                "floor" : 4,
-                "unit" : "#04-777",
-                "flat_type" : "2-Room",
-                "alone" : true,
-                "beacon_id" : "ABCD3333",
-                "total_score" : 70,
-                "balance_score" : 20,
-                "remarks" : "Ah Lim loves to watch birds sing"
             }
         ]
     },
@@ -191,36 +66,6 @@
                 "participant_name": "Ahmad",
                 "last_interaction": "May 12, 2020, 16:21",
                 "score": 700
-            },
-            {
-                "rank" : 4,
-                "participant_name": "Wei Jie",
-                "last_interaction": "May 11, 2020, 13:12",
-                "score": 500
-            },
-            {
-                "rank" : 5,
-                "participant_name": "Sam",
-                "last_interaction": "May 12, 2020, 14:32",
-                "score": 420
-            },
-            {
-                "rank" : 6,
-                "participant_name": "Terry",
-                "last_interaction": "May 10, 2020, 17:23",
-                "score": 400
-            },
-            {
-                "rank" : 7,
-                "participant_name": "Alice",
-                "last_interaction": "May 8, 2020, 20:02",
-                "score": 350
-            },
-            {
-                "rank" : 8,
-                "participant_name": "Priya",
-                "last_interaction": "May 3, 2020, 14:23",
-                "score": 230
             }
         ]
     },
@@ -247,40 +92,31 @@
                 "last_seen": "2 Days 9 hr 20 mins ago",
                 "location_area": "Common Space 2",
                 "status": "Active"
+            }
+        ]
+    },
+    "beacons" : {
+        "length" : 8,
+        "beacons" : [
+            {
+                "beacon_id" : "B0000000001",
+                "participant_id": "AAAA1234",
+                "participant_name": "Adam",
+                "last_active": "May 22, 2020, 15:00",
+                "status": "Inactive"
             },
             {
-                "device" : "Receiver 4",
-                "last_heartbeat": "May 12, 2020, 14:00",
-                "last_seen": "2 Days 9 hr 20 mins ago",
-                "location_area": "Common Space 2",
+                "beacon_id" : "B0000000002",
+                "participant_id": "BBBB1234",
+                "participant_name": "Adam",
+                "last_active": "May 22, 2020, 15:00",
                 "status": "Active"
             },
             {
-                "device" : "Receiver 5",
-                "last_heartbeat": "May 12, 2020, 14:00",
-                "last_seen": "2 Days 9 hr 20 mins ago",
-                "location_area": "Common Space 2",
-                "status": "Active"
-            },
-            {
-                "device" : "Receiver 6",
-                "last_heartbeat": "May 12, 2020, 14:00",
-                "last_seen": "2 Days 9 hr 20 mins ago",
-                "location_area": "Common Space 2",
-                "status": "Active"
-            },
-            {
-                "device" : "Receiver 7",
-                "last_heartbeat": "May 12, 2020, 14:00",
-                "last_seen": "2 Days 9 hr 20 mins ago",
-                "location_area": "Common Space 2",
-                "status": "Active"
-            },
-            {
-                "device" : "Receiver 8",
-                "last_heartbeat": "May 12, 2020, 14:00",
-                "last_seen": "2 Days 9 hr 20 mins ago",
-                "location_area": "Common Space 2",
+                "beacon_id" : "B0000000003",
+                "participant_id": "CCCC1234",
+                "participant_name": "Adam",
+                "last_active": "May 22, 2020, 15:00",
                 "status": "Active"
             }
         ]
