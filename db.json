@@ -1,6 +1,6 @@
 {
     "participants" : {
-        "length" : 12,
+        "length" : 3,
         "participants" : [
             {   
                 "id" : "AAAA1234",
@@ -47,33 +47,68 @@
         ]
     },
     "scores" : {
-        "length" : 8,
+        "length" : 3,
         "participants" : [
             {
                 "rank" : 1,
                 "participant_id" : "AAAA1234",
                 "participant_name": "Ah Kiat",
                 "last_interaction": "May 12, 2020, 14:00",
-                "score": 900
+                "score": 900,
+                "txn": [
+                    {
+                        "score": 90,
+                        "last_interaction": "May 12, 2020, 14:00",
+                        "interaction_type": { "type": "participant", "value":"steve"}
+                    },
+                    {
+                        "score": 90,
+                        "last_interaction": "May 12, 2020, 14:00",
+                        "interaction_type": { "type": "location", "value":"Common Space 1"}
+                    },
+                    {
+                        "score": 23,
+                        "last_interaction": "May 20, 2020, 12:00",
+                        "interaction_type": { "type": "misc", "value":"Participated in Event"}
+                    }                    
+                ]
             },
             {
                 "rank" : 2,
                 "participant_id" : "BBBB1234",
                 "participant_name": "Ah Chan",
                 "last_interaction": "May 11, 2020, 15:20",
-                "score": 840
+                "score": 840,
+                "txn": [
+                    {
+                        "score": 60,
+                        "last_interaction": "May 12, 2020, 14:00",
+                        "interaction_type": { "type": "participant", "value":"Ah Lim"}
+                    },
+                    {
+                        "score": 90,
+                        "last_interaction": "May 12, 2020, 14:00",
+                        "interaction_type": { "type": "location", "value":"Common Space 1"}
+                    },
+                    {
+                        "score": 23,
+                        "last_interaction": "May 20, 2020, 12:00",
+                        "interaction_type": { "type": "misc", "value":"Participated in Event"}
+                    }
+                ]
             },
             {
                 "rank" : 3,
                 "participant_id" : "CCCC1234",
                 "participant_name": "Ah Lim",
                 "last_interaction": "May 12, 2020, 16:21",
-                "score": 700
+                "score": 700,
+                "txn": []
             }
         ]
     },
     "receivers" : {
-        "length" : 8,
+        "length" : 3,
         "receivers" : [
             {
                 "id" : "R1111",
@@ -105,7 +140,7 @@
         ]
     },
     "beacons" : {
-        "length" : 8,
+        "length" : 3,
         "beacons" : [
             {
                 "id" : "ABCD1111",
@@ -137,7 +172,7 @@
         ]
     },
     "users": {
-        "length": 1,
+        "length": 2,
         "users": [
             {
                 "uid": "USER0001",
