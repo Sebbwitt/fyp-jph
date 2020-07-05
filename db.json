@@ -76,7 +76,8 @@
         "length" : 8,
         "receivers" : [
             {
-                "device" : "Receiver 2",
+                "id" : "R1111",
+                "name" : "Receiver 2",
                 "last_heartbeat": "May 12, 2020, 14:00",
                 "last_seen": "2 Days 9 hr 20 mins ago",
                 "location": "Cassia Crescent",
@@ -84,7 +85,8 @@
                 "status": "Inactive"
             },
             {
-                "device" : "Receiver 1",
+                "id" : "R2222",
+                "name" : "Receiver 1",
                 "last_heartbeat": "May 22, 2020, 15:00",
                 "last_seen": "12 mins ago",
                 "location": "Cassia Crescent",
@@ -92,7 +94,8 @@
                 "status": "Active"
             },
             {
-                "device" : "Receiver 3",
+                "id": "R3333",
+                "name" : "Receiver 3",
                 "last_heartbeat": "May 12, 2020, 14:00",
                 "last_seen": "2 Days 9 hr 20 mins ago",
                 "location": "Cassia Crescent",
