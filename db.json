@@ -4,7 +4,7 @@
         "participants" : [
             {   
                 "id" : "AAAA1234",
-                "name" : "Ah Kiat 1",
+                "name" : "Ah Kiat",
                 "year" : 1959,
                 "address" : "60 Mountbatten street",
                 "floor" : 11,
@@ -18,7 +18,7 @@
             },
             {
                 "id" : "BBBB1234",
-                "name" : "Ah Chan 1",
+                "name" : "Ah Chan",
                 "year" : 1954,
                 "address" : "60 Mountbatten street",
                 "floor" : 13,
@@ -32,7 +32,7 @@
             },
             {
                 "id" : "CCCC1234",
-                "name" : "Ah Lim 1",
+                "name" : "Ah Lim",
                 "year" : 1949,
                 "address" : "60 Mountbatten street",
                 "floor" : 4,
@@ -51,19 +51,22 @@
         "participants" : [
             {
                 "rank" : 1,
-                "participant_name": "Adam",
+                "participant_id" : "AAAA1234",
+                "participant_name": "Ah Kiat",
                 "last_interaction": "May 12, 2020, 14:00",
                 "score": 900
             },
             {
                 "rank" : 2,
-                "participant_name": "David Hasselfhoff",
+                "participant_id" : "BBBB1234",
+                "participant_name": "Ah Chan",
                 "last_interaction": "May 11, 2020, 15:20",
                 "score": 840
             },
             {
                 "rank" : 3,
-                "participant_name": "Ahmad",
+                "participant_id" : "CCCC1234",
+                "participant_name": "Ah Lim",
                 "last_interaction": "May 12, 2020, 16:21",
                 "score": 700
             }
@@ -104,21 +107,21 @@
             {
                 "beacon_id" : "B0000000001",
                 "participant_id": "AAAA1234",
-                "participant_name": "Adam",
+                "participant_name": "Ah Kiat",
                 "last_active": "May 22, 2020, 15:00",
                 "status": "Inactive"
             },
             {
                 "beacon_id" : "B0000000002",
                 "participant_id": "BBBB1234",
-                "participant_name": "Adam",
+                "participant_name": "Ah Chan",
                 "last_active": "May 22, 2020, 15:00",
                 "status": "Active"
             },
             {
                 "beacon_id" : "B0000000003",
                 "participant_id": "CCCC1234",
-                "participant_name": "Adam",
+                "participant_name": "Ah Lim",
                 "last_active": "May 22, 2020, 15:00",
                 "status": "Active"
             }
