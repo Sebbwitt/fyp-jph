@@ -108,7 +108,7 @@
         "length" : 8,
         "beacons" : [
             {
-                "beacon_id" : "ABCD1111",
+                "id" : "ABCD1111",
                 "participant_id": "AAAA1234",
                 "participant_name": "Ah Kiat",
                 "last_active": "May 22, 2020, 15:00",
@@ -116,7 +116,7 @@
                 "status": "Inactive"
             },
             {
-                "beacon_id" : "ABCD2222",
+                "id" : "ABCD2222",
                 "participant_id": "BBBB1234",
                 "participant_name": "Ah Chan",
                 "last_active": "May 22, 2020, 15:00",
@@ -124,7 +124,7 @@
                 "status": "Active"
             },
             {
-                "beacon_id" : "ABCD3333",
+                "id" : "ABCD3333",
                 "participant_id": "CCCC1234",
                 "participant_name": "Ah Lim",
                 "last_active": "May 22, 2020, 15:00",
