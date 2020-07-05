@@ -105,21 +105,21 @@
         "length" : 8,
         "beacons" : [
             {
-                "beacon_id" : "B0000000001",
+                "beacon_id" : "ABCD1111",
                 "participant_id": "AAAA1234",
                 "participant_name": "Ah Kiat",
                 "last_active": "May 22, 2020, 15:00",
                 "status": "Inactive"
             },
             {
-                "beacon_id" : "B0000000002",
+                "beacon_id" : "ABCD2222",
                 "participant_id": "BBBB1234",
                 "participant_name": "Ah Chan",
                 "last_active": "May 22, 2020, 15:00",
                 "status": "Active"
             },
             {
-                "beacon_id" : "B0000000003",
+                "beacon_id" : "ABCD3333",
                 "participant_id": "CCCC1234",
                 "participant_name": "Ah Lim",
                 "last_active": "May 22, 2020, 15:00",
