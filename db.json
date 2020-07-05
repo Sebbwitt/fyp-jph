@@ -109,6 +109,7 @@
                 "participant_id": "AAAA1234",
                 "participant_name": "Ah Kiat",
                 "last_active": "May 22, 2020, 15:00",
+                "location": "Cassia Crescent",
                 "status": "Inactive"
             },
             {
@@ -116,6 +117,7 @@
                 "participant_id": "BBBB1234",
                 "participant_name": "Ah Chan",
                 "last_active": "May 22, 2020, 15:00",
+                "location": "Cassia Crescent",
                 "status": "Active"
             },
             {
@@ -123,6 +125,7 @@
                 "participant_id": "CCCC1234",
                 "participant_name": "Ah Lim",
                 "last_active": "May 22, 2020, 15:00",
+                "location": "Cassia Crescent",
                 "status": "Active"
             }
         ]
