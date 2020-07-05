@@ -109,6 +109,7 @@
         "beacons" : [
             {
                 "id" : "ABCD1111",
+                "name": "Beacon 1",
                 "participant_id": "AAAA1234",
                 "participant_name": "Ah Kiat",
                 "last_active": "May 22, 2020, 15:00",
@@ -117,6 +118,7 @@
             },
             {
                 "id" : "ABCD2222",
+                "name": "Beacon 2",
                 "participant_id": "BBBB1234",
                 "participant_name": "Ah Chan",
                 "last_active": "May 22, 2020, 15:00",
@@ -125,6 +127,7 @@
             },
             {
                 "id" : "ABCD3333",
+                "name": "Beacon 3",
                 "participant_id": "CCCC1234",
                 "participant_name": "Ah Lim",
                 "last_active": "May 22, 2020, 15:00",
