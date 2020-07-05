@@ -136,53 +136,6 @@
             }
         ]
     },
-    "transactions": {
-        "length": 0,
-        "transactions": [
-            {
-                "participant_id" : "AAAA1234",
-                "length": 3,
-                "txn": [
-                    {
-                        "score": 90,
-                        "last_interaction": "May 12, 2020, 14:00",
-                        "interaction_type": { "type": "participant", "value":"steve"}
-                    },
-                    {
-                        "score": 90,
-                        "last_interaction": "May 12, 2020, 14:00",
-                        "interaction_type": { "type": "location", "value":"Common Space 1"}
-                    },
-                    {
-                        "score": 23,
-                        "last_interaction": "May 20, 2020, 12:00",
-                        "interaction_type": { "type": "misc", "value":"Participated in Event"}
-                    }
-                ]
-            },
-            {
-                "participant_id": "BBBB1234",
-                "length": 3,
-                "txn": [
-                    {
-                        "score": 60,
-                        "last_interaction": "May 12, 2020, 14:00",
-                        "interaction_type": { "type": "participant", "value":"steve"}
-                    },
-                    {
-                        "score": 90,
-                        "last_interaction": "May 12, 2020, 14:00",
-                        "interaction_type": { "type": "location", "value":"Common Space 1"}
-                    },
-                    {
-                        "score": 23,
-                        "last_interaction": "May 20, 2020, 12:00",
-                        "interaction_type": { "type": "misc", "value":"Participated in Event"}
-                    }
-                ]
-            }
-        ]
-    },
     "users": {
         "length": 1,
         "users": [
