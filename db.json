@@ -176,7 +176,7 @@
         "users": [
             {
                 "uid": "USER0001",
-                "user_type": "admin",
+                "user_type": "Admin",
                 "name": "Adam",
                 "username": "Admin1",
                 "date_created": "May 12 2020, 14:00",
@@ -184,7 +184,7 @@
             },
             {
                 "uid": "USER0002",
-                "user_type": "grl",
+                "user_type": "Grassroot Leader",
                 "name": "Bob",
                 "username": "Grl1",
                 "date_created": "May 12 2020, 14:00",
