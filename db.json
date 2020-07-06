@@ -107,6 +107,17 @@
             }
         ]
     },
+    "metrics" : {
+        "length" : 1,
+        "metrics" : [
+            {
+                "id": "A1",
+                "activity": "sing national anthem",
+                "score_awarded": 2,
+                "additional_notes": "majulah singapura"
+            }
+        ]
+    }
     "receivers" : {
         "length" : 3,
         "receivers" : [
