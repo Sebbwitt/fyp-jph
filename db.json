@@ -58,17 +58,17 @@
                 "txn": [
                     {
                         "score": 90,
-                        "last_interaction": "May 12, 2020, 14:00",
+                        "last_interaction": "1589278350",
                         "interaction_type": { "type": "participant", "value":"steve"}
                     },
                     {
                         "score": 90,
-                        "last_interaction": "May 12, 2020, 14:00",
+                        "last_interaction": "1589970438",
                         "interaction_type": { "type": "location", "value":"Common Space 1"}
                     },
                     {
                         "score": 23,
-                        "last_interaction": "May 20, 2020, 12:00",
+                        "last_interaction": "1591525638",
                         "interaction_type": { "type": "misc", "value":"Participated in Event"}
                     }                    
                 ]
@@ -82,17 +82,17 @@
                 "txn": [
                     {
                         "score": 60,
-                        "last_interaction": "May 12, 2020, 14:00",
+                        "last_interaction": "1589279238",
                         "interaction_type": { "type": "participant", "value":"Ah Lim"}
                     },
                     {
                         "score": 90,
-                        "last_interaction": "May 12, 2020, 14:00",
+                        "last_interaction": "1588328838",
                         "interaction_type": { "type": "location", "value":"Common Space 1"}
                     },
                     {
                         "score": 23,
-                        "last_interaction": "May 20, 2020, 12:00",
+                        "last_interaction": "1590834438",
                         "interaction_type": { "type": "misc", "value":"Participated in Event"}
                     }
                 ]
