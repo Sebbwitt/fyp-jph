@@ -67,6 +67,11 @@
                         "interaction_type": { "type": "location", "value":"Common Space 1"}
                     },
                     {
+                        "score": 90,
+                        "last_interaction": "1589214420",
+                        "interaction_type": { "type": "location", "value":"Common Space 1"}
+                    },
+                    {
                         "score": 23,
                         "last_interaction": "1591525638",
                         "interaction_type": { "type": "misc", "value":"Participated in Event"}
